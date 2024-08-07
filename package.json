@@ -1,0 +1,36 @@
+{
+  "name": "reactdevelopment",
+  "version": "1.0.0",
+  "description": "This is React Development",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akriti-gupta27/ReactDevelopment.git"
+  },
+  "keywords": [
+    "react",
+    "devReact"
+  ],
+  "author": "Akriti Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akriti-gupta27/ReactDevelopment/issues"
+  },
+  "homepage": "https://github.com/akriti-gupta27/ReactDevelopment#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browerslist":[
+    "last 10 Chrome Versions",
+    "last 2 Firefox version"
+  ]
+}
