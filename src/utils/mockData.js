@@ -1,6 +1,6 @@
 const resList = [{
-    data: {
-      "id": "405798",
+    info: {
+      "id": "4005798",
       "name": "Chinese Wok",
       "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
       "locality": "Malleshwaram",
@@ -104,8 +104,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "69876",
+    info: {
+      "id": "698076",
       "name": "Subway",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/2/75fd25ee-d2c5-4e26-878d-0be57878d5c0_69876.jpg",
       "locality": "UB City",
@@ -217,8 +217,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "755276",
+    info: {
+      "id": "7552076",
       "name": "La Pino'z Pizza",
       "cloudinaryImageId": "f44bc9708c514cd2dd6ae0d8b4677214",
       "locality": "Coles Road",
@@ -320,8 +320,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "5938",
+    info: {
+      "id": "59308",
       "name": "Burger King",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/7f76a072-c1bc-4d74-ac56-33e0eea20c1e_5938.JPG",
       "locality": "Tasker Town",
@@ -432,8 +432,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "197238",
+    info: {
+      "id": "1970238",
       "name": "The Belgian Waffle Co.",
       "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
       "locality": "SRI Vasavi Temple Street",
@@ -547,8 +547,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "82499",
+    info: {
+      "id": "802499",
       "name": "UBQ by Barbeque Nation",
       "cloudinaryImageId": "x0y6ioip45p0xqipdymj",
       "locality": "MG Road",
@@ -650,8 +650,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "718106",
+    info: {
+      "id": "7181006",
       "name": "Suvaii- A Pandyan Legacy",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/05290256-23a1-4da2-807a-6bb7d38a4c7b_718106.jpg",
       "locality": "Indiranagar",
@@ -755,8 +755,8 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    data: {
-      "id": "763978",
+    info: {
+      "id": "7639078",
       "name": "Khichdi Bar",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/3/403fb547-e6f9-4277-b081-becd37d9f5e5_763978.jpg",
       "locality": "Shivajinagara",
