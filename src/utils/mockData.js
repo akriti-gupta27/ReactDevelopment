@@ -1,5 +1,5 @@
 const resList = [{
-    "info": {
+    data: {
       "id": "405798",
       "name": "Chinese Wok",
       "cloudinaryImageId": "e0839ff574213e6f35b3899ebf1fc597",
@@ -104,7 +104,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "69876",
       "name": "Subway",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/8/2/75fd25ee-d2c5-4e26-878d-0be57878d5c0_69876.jpg",
@@ -217,7 +217,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "755276",
       "name": "La Pino'z Pizza",
       "cloudinaryImageId": "f44bc9708c514cd2dd6ae0d8b4677214",
@@ -320,7 +320,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "5938",
       "name": "Burger King",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/7f76a072-c1bc-4d74-ac56-33e0eea20c1e_5938.JPG",
@@ -432,7 +432,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "197238",
       "name": "The Belgian Waffle Co.",
       "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
@@ -547,7 +547,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "82499",
       "name": "UBQ by Barbeque Nation",
       "cloudinaryImageId": "x0y6ioip45p0xqipdymj",
@@ -650,7 +650,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "718106",
       "name": "Suvaii- A Pandyan Legacy",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/24/05290256-23a1-4da2-807a-6bb7d38a4c7b_718106.jpg",
@@ -755,7 +755,7 @@ const resList = [{
     "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
   },
   {
-    "info": {
+    data: {
       "id": "763978",
       "name": "Khichdi Bar",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/3/403fb547-e6f9-4277-b081-becd37d9f5e5_763978.jpg",
