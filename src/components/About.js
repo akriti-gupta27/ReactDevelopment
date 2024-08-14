@@ -20,7 +20,6 @@ class About extends Component{
                 <h2>This is Akriti's Food App</h2>
                 {/* <User name ={"Akriti Gupta (FUnctionalComp)"}/> */}
                 <UserClass name ={"Akriti Gupta(ClassComp)"}/>
-                <UserClass name ={"Akriti Gupta(ClassComp)"}/>
             </div>
         );
     }
